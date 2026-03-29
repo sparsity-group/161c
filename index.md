@@ -8,7 +8,7 @@ title: Home
 **Lectures:** Mondays/Wednesdays 11:00 – 12:20 in Jacobs Hall (EBU1), Room 2315  
 **Discussions:** Wednesdays 09:00 – 09:50 in Warren Lecture Hall (WLH), Room 2206
 
-**Syllabus:** [**on Canvas**](???)
+**Syllabus:** [**on Canvas**](https://canvas.ucsd.edu/courses/75498/files?preview=17828259)
 
 **Instructor:** Rahul Parhi (<rahul@ucsd.edu>)  
 **Office:** Jacobs Hall, Room 6406  
@@ -19,7 +19,7 @@ title: Home
 **TA:** Luke McDermott (<lmcdermo@ucsd.edu>)  
 
 **Canvas:** <https://canvas.ucsd.edu/courses/75498>  
-**Piazza:** <???>  
+**Piazza:** <https://piazza.com/class/mnc8zwk08kk289>
 
 # Prerequisites
 
