@@ -5,8 +5,10 @@ title: Home
 
 # Course Information
 
-**Lectures:** Tuesdays 17:00 – 19:50 (CENTR 216)  
-**Discussions:** Mondays 17:00 – 17:50 (CENTR 212)
+**Lectures:** Mondays/Wednesdays 11:00 – 12:20 in Jacobs Hall (EBU1), Room 2315  
+**Discussions:** Wednesdays 09:00 – 09:50 in Warren Lecture Hall (WLH), Room 2206
+
+**Syllabus:** [**on Canvas**](???)
 
 **Instructor:** Rahul Parhi (<rahul@ucsd.edu>)  
 **Office:** Jacobs Hall, Room 6406  
@@ -14,32 +16,26 @@ title: Home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursdays 16:00 -- 17:00  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fridays 16:00 -- 17:00
 
-**TA:** Niyas Attasseri (<nattasseri@ucsd.edu>)  
-**Office Hours:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesdays 13:00 – 14:00  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fridays 14:00 – 15:00  
-**Office Hours Location:** Jacobs Hall, Room 5101B
+**TA:** Luke McDermott (<lmcdermo@ucsd.edu>)  
 
-**Canvas:** <https://canvas.ucsd.edu/courses/62410>  
-**Piazza:** <https://piazza.com/class/m5hdhecdrjp4dz>  
-**Gradescope:** <https://www.gradescope.com/courses/938339>  
-**DataHub:** <https://datahub.ucsd.edu>
+**Canvas:** <https://canvas.ucsd.edu/courses/75498>  
+**Piazza:** <???>  
 
 # Prerequisites
 
 This course assumes basic knowledge of linear systems fundamentals at the level
-of ECE 101. Some background in probability will be helpful (e.g., at the level
-of ECE 109). Familiarity with Python will be necessary for the programming
+of ECE 101 or 161A. Some background in probability will be helpful (e.g., at the
+level of ECE 109). Familiarity with Python will be necessary for the programming
 components of the course.
 
 # Course Grade
 
 The course grade will be determined by
-* 5-8 Assignments (either "pen-and-paper" homework or programming lab exercises) **(40%)**
-* Midterm Exam **(20%)**
-    - The midterm will take place on Tuesday, February 11th in class
+* 6-8 Assignments (either "pen-and-paper" homework or programming lab exercises) **(20%)**
+* Midterm Exam **(40%)**
+    - The midterm will take place on TBD in class
 * Final Exam  **(40%)**
-    - The final will take place on Thursday, March 20th from 19:00 -- 21:59
+    - The final will take place on TBD in class
 
 
 # Academic Integrity

@@ -5,7 +5,7 @@ permalink: /materials/
 ---
 
 We will not follow any specific textbook. The main course materials will be the
-lecture slides (posted [here](/172a/lectures)). The following textbooks are also good
+lecture slides (posted [here](/161c/lectures)). The following textbooks are also good
 references on the subject material.
 
 * B.K.P. Horn, Robot Vision, New York: McGraw-Hill, 1986.
