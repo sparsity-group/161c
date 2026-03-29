@@ -3,7 +3,7 @@ course_name: "ECE 161C  - Introduction to Image Processing"
 course_description: "This is an undergraduate course the basics of machine perception (a.k.a. image processing). Topics covered will include concepts from two-dimensional signal processing (e.g., 2D Fourier transforms, z-transforms, etc.) including image filtering/restoration, edge detection, segmentation, image analysis, image compression, and image reconstruction."
 course_semester: "Spring 2026"
 
-baseurl: "/172a" # the subpath of your site, e.g. /blog/
+baseurl: "/161c" # the subpath of your site, e.g. /blog/
 url: "https://sparsity-group.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University of California, San Diego"
