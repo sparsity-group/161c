@@ -33,9 +33,9 @@ components of the course.
 The course grade will be determined by
 * 6-8 Assignments (either "pen-and-paper" homework or programming lab exercises) **(20%)**
 * Midterm Exam **(40%)**
-    - The midterm will take place on TBD in class
+    - The midterm will take place on May 4, 2026 in class
 * Final Exam  **(40%)**
-    - The final will take place on TBD in class
+    - The final will take place on June 4, 2026 in class
 
 
 # Academic Integrity
