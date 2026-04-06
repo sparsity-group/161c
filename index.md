@@ -35,7 +35,7 @@ The course grade will be determined by
 * Midterm Exam **(40%)**
     - The midterm will take place on May 4, 2026 in class
 * Final Exam  **(40%)**
-    - The final will take place on June 4, 2026 in class
+    - The final will take place on June 3, 2026 in class
 
 
 # Academic Integrity
